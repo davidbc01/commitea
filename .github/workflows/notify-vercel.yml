@@ -2,7 +2,7 @@ name: Avisar a Vercel de cambios en el contenido
 
 on:
   push:
-    branches: [main]
+    branches: [master]
     paths:
       - "**/*.md"
 
