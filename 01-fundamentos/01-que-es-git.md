@@ -52,6 +52,6 @@ Esto lo veremos en detalle en la siguiente entrada, sobre el ciclo básico de tr
 
 Git fue creado en 2005 por Linus Torvalds (el creador de Linux) para gestionar el desarrollo del propio kernel de Linux, un proyecto con miles de colaboradores. Estaba diseñado para ser rápido y para funcionar bien incluso cuando mucha gente trabaja a la vez sobre el mismo código — por eso hoy es el estándar en prácticamente todo el desarrollo de software.
 
----
+<!-- --- -->
 
-📹 *Vídeo relacionado: [pendiente]*
+<!-- 📹 *Vídeo relacionado: [pendiente]* -->
