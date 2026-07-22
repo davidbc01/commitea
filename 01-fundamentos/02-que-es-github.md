@@ -53,6 +53,6 @@ Es una fuente común de confusión: alguien hace varios commits, cree que ya est
 
 GitHub además de alojar repositorios ofrece herramientas extra que no son parte de Git en sí: issues (para reportar problemas o ideas), pull requests (para proponer cambios), y GitHub Actions (para automatizar tareas). Iremos viendo varias de estas en las siguientes secciones, especialmente en la de colaboración.
 
----
+<!-- --- -->
 
-📹 *Vídeo relacionado: [pendiente]*
+<!-- 📹 *Vídeo relacionado: [pendiente]* -->
