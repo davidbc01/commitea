@@ -97,6 +97,6 @@ Si esto te pasa, puedes corregirlo simplemente actualizando la configuración co
 
 Además de `--global`, puedes configurar valores distintos por proyecto quitando ese flag (`git config user.email "otro@email.com"` dentro de la carpeta del proyecto). Es útil si usas, por ejemplo, un email distinto para proyectos personales y de trabajo.
 
----
+<!-- --- -->
 
-📹 *Vídeo relacionado: [pendiente]*
+<!-- 📹 *Vídeo relacionado: [pendiente]* -->
