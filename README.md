@@ -1,6 +1,6 @@
 # Commitea
 
-**Git y GitHub explicados en español, sin miedo y sin paja.**
+**Git y GitHub explicados en español, sin miedo y sin rodeos.**
 
 Commitea nace de una idea simple: cuando empecé a programar, entender Git y GitHub me costó más de lo que debería. No porque sea complicado, sino porque la mayoría de recursos buenos están en inglés, o dan por hecho cosas que a un principiante no le quedan claras.
 
