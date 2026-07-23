@@ -1,0 +1,6 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Guía de contribución
+    url: https://github.com/davidbc01/commitea/blob/main/CONTRIBUTING.md
+    about: Antes de proponer un artículo nuevo, échale un ojo a esto.
+    
