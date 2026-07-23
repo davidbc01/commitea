@@ -1,5 +1,7 @@
 # Commitea
 
+[![GitHub stars](https://img.shields.io/github/stars/davidbc01/commitea?style=social)](https://github.com/davidbc01/commitea/stargazers)
+
 **Git y GitHub explicados en español, sin miedo y sin rodeos.**
 
 Commitea nace de una idea simple: cuando empecé a programar, entender Git y GitHub me costó más de lo que debería. No porque sea complicado, sino porque la mayoría de recursos buenos están en inglés, o dan por hecho cosas que a un principiante no le quedan claras.
@@ -35,13 +37,19 @@ Cada archivo sigue siempre la misma estructura, para que sepas qué esperar:
 5. **Vídeo relacionado** — si existe contenido en vídeo sobre el tema.
 
 ## Contribuir
-
+ 
 Si te has atascado con algo que no está aquí, o has visto un error, abre un issue o una pull request. Este repo funciona mejor cuantas más dudas reales recoja.
+ 
+Antes de escribir un artículo nuevo, echa un ojo a la [guía de contribución](CONTRIBUTING.md) — tiene la plantilla exacta que sigue cada archivo.
 
 ## Contenido en vídeo
 
-Voy publicando contenido corto relacionado en TikTok, Instagram y YouTube. Los enlaces se irán añadiendo en cada archivo según se vaya grabando.
+Iré publicando contenido corto relacionado en TikTok, Instagram y YouTube. Los enlaces se irán añadiendo en cada archivo según se vaya grabando.
+
+## ¿Te ha resultado útil?
+ 
+Si este repo te ha ayudado a entender algo que antes no tenías claro, una ⭐ ayuda a que le llegue a la siguiente persona que lo necesite.
 
 ---
 
-Hecho por [David](https://davidbc01.com) ⚡
+Contenido ideado y desarrollado por [David](https://davidbc01.com) ⚡
