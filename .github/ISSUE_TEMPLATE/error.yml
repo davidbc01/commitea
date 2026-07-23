@@ -1,0 +1,30 @@
+name: He encontrado un error
+description: Reporta algo incorrecto, confuso, o un enlace roto en un artículo existente.
+title: "[Error] "
+labels: ["error"]
+body:
+  - type: input
+    id: articulo
+    attributes:
+      label: ¿En qué artículo?
+      description: Nombre del archivo o enlace a la página web.
+      placeholder: "dudas-frecuentes/rebase-vs-merge.md"
+    validations:
+      required: true
+
+  - type: textarea
+    id: error
+    attributes:
+      label: ¿Qué está mal?
+      description: Cuanto más concreto, mejor — una frase confusa, un comando incorrecto, un enlace roto...
+    validations:
+      required: true
+
+  - type: textarea
+    id: sugerencia
+    attributes:
+      label: ¿Cómo lo arreglarías? (opcional)
+      description: Si ya tienes en mente cómo debería quedar, dilo aquí — así puedo revisarlo más rápido.
+    validations:
+      required: false
+      
