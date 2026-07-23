@@ -1,0 +1,33 @@
+name: Sugerir un tema o duda nueva
+description: Propón algo que te has atascado con Git/GitHub y que no está documentado aquí todavía.
+title: "[Duda] "
+labels: ["duda nueva"]
+body:
+  - type: textarea
+    id: duda
+    attributes:
+      label: ¿Con qué te atascaste?
+      description: Explica la situación concreta, con el detalle que puedas.
+      placeholder: "Se me quedó un commit en la rama que no era y no sabía cómo moverlo sin perderlo..."
+    validations:
+      required: true
+
+  - type: dropdown
+    id: seccion
+    attributes:
+      label: ¿Dónde crees que encajaría?
+      options:
+        - dudas-frecuentes/
+        - buenas-practicas/
+        - No estoy seguro
+    validations:
+      required: true
+
+  - type: textarea
+    id: contexto
+    attributes:
+      label: Contexto adicional (opcional)
+      description: ¿Cómo lo resolviste al final? ¿Hay algo relacionado que también te costó?
+    validations:
+      required: false
+      
