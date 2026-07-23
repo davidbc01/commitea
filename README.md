@@ -1,6 +1,7 @@
 # Commitea
 
 [![GitHub stars](https://img.shields.io/github/stars/davidbc01/commitea?style=social)](https://github.com/davidbc01/commitea/stargazers)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](LICENSE)
 
 **Git y GitHub explicados en español, sin miedo y sin rodeos.**
 
