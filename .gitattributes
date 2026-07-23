@@ -1,0 +1,16 @@
+# Normaliza los saltos de línea a LF en todo el repositorio, sin importar
+# si alguien sube un archivo desde Windows, macOS o Linux. Evita que un PR
+# se llene de cambios falsos solo por diferencias de \r\n vs \n.
+* text=auto eol=lf
+
+# Tipos de archivo que sabemos con certeza que son texto.
+*.md text
+*.yml text
+*.yaml text
+*.json text
+LICENSE text
+
+# El favicon y demás binarios (si los hubiera) nunca se tocan por esto.
+*.png binary
+*.jpg binary
+*.ico binary
